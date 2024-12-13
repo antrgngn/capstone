@@ -1,5 +1,4 @@
-# capstone
-# Fashion Causal Inference Dataset
+# The Devil Wears Data
 
 ## Project Overview
 This research project aims to develop a comprehensive fashion dataset designed to enable robust causal inference research by addressing critical methodological limitations in contemporary fashion studies.
