@@ -1,0 +1,74 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files (large or sensitive)
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.db
+data/raw/
+data/processed/
+
+# Machine Learning model files
+*.pkl
+*.model
+*.h5
+*.pth
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Environments and configuration
+.env
+.venv
+.credentials
+config.py
+secrets.json
+
+# Logging files
+*.log
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*~
+
+# Large analysis outputs
+results/
+outputs/
+
+# System files
+.DS_Store
+Thumbs.db
