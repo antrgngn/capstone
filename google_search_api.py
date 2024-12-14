@@ -12,8 +12,8 @@ from textblob import TextBlob
 import pandas as pd
 
 # API Setup
-API_KEY = "AIzaSyCJjAdv4I-xApaFyh_JOn1nwa6aeJbxd3s"  # Replace with your API Key
-CX = "71848bd9cccb64034"      # Replace with your Search Engine ID
+#API_KEY = ""  # API Key Hidden due to security reasons
+CX = "71848bd9cccb64034"      
 
 # Search Function
 def google_search(query, start_date, end_date):
