@@ -3,6 +3,8 @@
 ## Project Overview
 This research project aims to develop a comprehensive fashion dataset designed to enable robust causal inference research by addressing critical methodological limitations in contemporary fashion studies.
 
+The GitHub repository includes source code for sentiment analysis, the dataset (so far 2 houses), and a comprehensive codebook detailing the varaibles.
+
 ## Research Motivation
 Traditional fashion research often suffers from:
 - Fragmented data sources
@@ -12,15 +14,26 @@ Traditional fashion research often suffers from:
 ## Dataset Characteristics
 
 ### Key Variables
-- Creative Director
-- Social Media Sentiment Analysis
-- Multi-dimensional Trend Tracking
-- Production Details
-- Market Penetration
-- Consumer Demographics
+- Year
+- Season / Collection
+- Home base (Geographical)
+- Parent group
+- Participation in New York Fashion Week
+- Participation in Paris Fashion Week
+- Participation in Milan Fashion Week
+- Participation in London Fashion Week
+- Participation in Met Gala
+- Creative director
+- Number of years creative director was active
+- Number of brands creative director has been a part of
+- Number of employees
+- Seasonal revenue
+- Social media perception of collection
+
 
 ### Methodological Innovations
 - Integrated multi-variable approach
+- Contains sentiment analysis approach
 - Enables interdisciplinary research
 - Supports advanced causal inference techniques
 
