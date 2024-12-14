@@ -1,7 +1,7 @@
 # The Devil Wears Data
 
 ## Project Overview
-This research project aims to develop a comprehensive fashion dataset designed to enable robust causal inference research by addressing critical methodological limitations in contemporary fashion studies.
+Fashion doesn't exempt all of us. Miranda Priestley would disagree that this is all just a pile of "stuff." This is to support her, in a data approach.
 
 The GitHub repository includes source code for sentiment analysis, the dataset (so far 2 houses), and a comprehensive codebook detailing the varaibles.
 
