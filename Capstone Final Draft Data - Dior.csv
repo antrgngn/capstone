@@ -1,0 +1,15 @@
+year,season,homebase,parent,director,director_years,director_previous_houses,newyork,paris,london,milan,"met",employees_num,google_search_sentiment,fashion_magazine_sentiment
+2024,fw,Paris,LVMH,Kim Jones,14,4,0,1,0,0,1,9336,0.089318,0.162096
+2024,ss,Paris,LVMH,Kim Jones,14,4,0,1,0,0,1,9336,0.089318,0.162096
+2023,fw,Paris,LVMH,Kim Jones,14,4,0,1,0,0,1,9201,0.089318,0.162096
+2023,ss,Paris,LVMH,Kim Jones,14,4,0,1,0,0,1,9201,0.089318,0.162096
+2022,fw,Paris,LVMH,Kim Jones,14,4,0,1,0,0,1,9293,0.089318,0.162096
+2022,ss,Paris,LVMH,Kim Jones,22,1,0,1,0,0,1,9293,0.089318,0.162096
+2021,fw,Paris,LVMH,Kim Jones,22,1,0,1,0,0,1,9234,0.089318,0.162096
+2021,ss,Paris,LVMH,Kim Jones,22,1,0,1,0,0,1,9234,0.089318,0.162096
+2020,fw,Paris,LVMH,Kim Jones,22,1,0,1,0,0,1,9892,0.089318,0.162096
+2020,ss,Paris,LVMH,Kim Jones,22,1,0,1,0,0,1,9892,0.089318,0.162096
+2019,fw,Paris,LVMH,Kim Jones,22,1,0,1,0,0,1,9862,0.089318,0.162096
+2019,ss,Paris,LVMH,Kim Jones,22,1,0,1,0,0,1,9862,0.089318,0.162096
+2018,fw,Paris,LVMH,Kim Jones,22,1,0,1,0,0,1,9752,0.089318,0.162096
+2018,ss,Paris,LVMH,Kriss Van Asche,22,1,0,1,0,0,1,9752,0.19125,0.302083
