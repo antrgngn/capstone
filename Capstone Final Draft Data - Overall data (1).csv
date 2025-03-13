@@ -1,0 +1,197 @@
+house,year,season,homebase,parent,director,director_years,director_previous_houses,newyork,paris,london,milan,met,employees_num,google_search_sentiment,fashion_magazine_sentiment
+Burberry,2024,fw,London,Burberry,Daniel Lee,14,4,0,0,1,0,1,9336,0.135707,0.2916666667
+Burberry,2024,ss,London,Burberry,Daniel Lee,14,4,0,0,1,0,1,9336,0.135707,0.08011363636
+Burberry,2023,fw,London,Burberry,Daniel Lee,14,4,0,0,1,0,1,9201,0.094815,0.2840909091
+Burberry,2023,ss,London,Burberry,Daniel Lee,14,4,0,0,1,0,1,9201,0.166629,0.03409090909
+Burberry,2022,fw,London,Burberry,Daniel Lee,14,4,0,0,1,0,1,9293,0.166629,-0.01590909091
+Burberry,2022,ss,London,Burberry,Riccardo Tisci,22,1,0,0,1,0,1,9293,0.143723,0.002840909091
+Burberry,2021,fw,London,Burberry,Riccardo Tisci,22,1,0,0,1,0,1,9234,0.06375,0.3507575758
+Burberry,2021,ss,London,Burberry,Riccardo Tisci,22,1,0,0,1,0,1,9234,0.06375,0.03409090909
+Burberry,2020,fw,London,Burberry,Riccardo Tisci,22,1,0,0,1,0,1,9892,0.06375,0.3
+Burberry,2020,ss,London,Burberry,Riccardo Tisci,22,1,0,0,1,0,1,9892,0.06375,0.25
+Burberry,2019,fw,London,Burberry,Riccardo Tisci,22,1,0,0,1,0,1,9862,0.06375,0.05
+Burberry,2019,ss,London,Burberry,Riccardo Tisci,22,1,0,0,1,0,1,9862,0.06375,0
+Burberry,2018,fw,London,Burberry,Riccardo Tisci,22,1,0,0,1,0,1,9752,0.06375,0.009090909091
+Burberry,2018,ss,London,Burberry,Riccardo Tisci,22,1,0,0,1,0,1,9752,0.06375,-0.2
+Dior,2024,fw,Paris,LVMH,Kim Jones,21,4,0,1,0,0,1,9336,0.089318,0.25
+Dior,2024,ss,Paris,LVMH,Kim Jones,21,4,0,1,0,0,1,9336,0.089318,0.425
+Dior,2023,fw,Paris,LVMH,Kim Jones,21,4,0,1,0,0,1,9201,0.089318,0
+Dior,2023,ss,Paris,LVMH,Kim Jones,21,4,0,1,0,0,1,9201,0.089318,0.05
+Dior,2022,fw,Paris,LVMH,Kim Jones,21,4,0,1,0,0,1,9293,0.089318,0.25
+Dior,2022,ss,Paris,LVMH,Kim Jones,21,1,0,1,0,0,1,9293,0.089318,0.3
+Dior,2021,fw,Paris,LVMH,Kim Jones,21,1,0,1,0,0,1,9234,0.089318,0
+Dior,2021,ss,Paris,LVMH,Kim Jones,21,1,0,1,0,0,1,9234,0.089318,0.325
+Dior,2020,fw,Paris,LVMH,Kim Jones,21,1,0,1,0,0,1,9892,0.089318,0.4
+Dior,2020,ss,Paris,LVMH,Kim Jones,21,1,0,1,0,0,1,9892,0.089318,0
+Dior,2019,fw,Paris,LVMH,Kim Jones,21,1,0,1,0,0,1,9862,0.089318,0
+Dior,2019,ss,Paris,LVMH,Kim Jones,21,1,0,1,0,0,1,9862,0.089318,0.2
+Dior,2018,fw,Paris,LVMH,Kim Jones,21,1,0,1,0,0,1,9752,0.089318,0
+Dior,2018,ss,Paris,LVMH,Kriss Van Asche,13,1,0,1,0,0,1,9752,0.19125,0.175
+Loewe,2024,fw,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9336,0.089318,0.1893939394
+Loewe,2024,ss,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9336,0.089318,0.1893939394
+Loewe,2023,fw,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9201,0.089318,0.15
+Loewe,2023,ss,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9201,0.089318,0.1277777778
+Loewe,2022,fw,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9293,0.089318,0.3166666667
+Loewe,2022,ss,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9293,0.089318,0.2625
+Loewe,2021,fw,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9234,0.089318,0.2893939394
+Loewe,2021,ss,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9234,0.089318,0.3171717172
+Loewe,2020,fw,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9892,0.089318,0.2393939394
+Loewe,2020,ss,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9892,0.089318,0.1893939394
+Loewe,2019,fw,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9862,0.089318,0.3416666667
+Loewe,2019,ss,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9862,0.089318,0.2625
+Loewe,2018,fw,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9752,0.089318,0.3
+Loewe,2018,ss,Madrid,LVMH,Jonathan Anderson,6,1,0,1,0,0,1,9752,0.19125,0.25
+Prada,2024,fw,Milan,Prada,Miuccia Prada & Raf Simons,25,"0, 4",0,0,0,1,1,9336,0.089318,0
+Prada,2024,ss,Milan,Prada,Miuccia Prada & Raf Simons,25,"0, 4",0,0,0,1,1,9336,0.089318,0.05
+Prada,2023,fw,Milan,Prada,Miuccia Prada & Raf Simons,25,"0, 4",0,0,0,1,1,9201,0.089318,0
+Prada,2023,ss,Milan,Prada,Miuccia Prada & Raf Simons,25,"0, 4",0,0,0,1,1,9201,0.089318,0.05
+Prada,2022,fw,Milan,Prada,Miuccia Prada & Raf Simons,25,"0, 4",0,0,0,1,1,9293,0.089318,0.25
+Prada,2022,ss,Milan,Prada,Miuccia Prada & Raf Simons,25,"0, 4",0,0,0,1,1,9293,0.089318,0.1893939394
+Prada,2021,fw,Milan,Prada,Miuccia Prada & Raf Simons,25,"0, 4",0,0,0,1,1,9234,0.089318,0
+Prada,2021,ss,Milan,Prada,Miuccia Prada & Raf Simons,25,"0, 4",0,0,0,1,1,9234,0.089318,0.2393939394
+Prada,2020,fw,Milan,Prada,Miuccia Prada & Raf Simons,25,"0, 4",0,0,0,1,1,9892,0.089318,0.07670454545
+Prada,2020,ss,Milan,Prada,Miuccia Prada,42,0,0,0,0,1,1,9892,0.089318,0
+Prada,2019,fw,Milan,Prada,Miuccia Prada,42,0,0,0,0,1,1,9862,0.089318,0
+Prada,2019,ss,Milan,Prada,Miuccia Prada,42,0,0,0,0,1,1,9862,0.089318,0.2166666667
+Prada,2018,fw,Milan,Prada,Miuccia Prada,42,0,0,0,0,1,1,9752,0.089318,0.07670454545
+Prada,2018,ss,Milan,Prada,Miuccia Prada,42,0,0,0,0,1,1,9752,0.19125,0.3143939394
+Miu Miu,2024,fw,Milan,Prada,Miuccia Prada & Raf Simons,25,4,0,1,0,0,1,,,0.25
+Miu Miu,2024,ss,Milan,Prada,Miuccia Prada & Raf Simons,25,4,0,1,0,0,1,,,0.3
+Miu Miu,2023,fw,Milan,Prada,Miuccia Prada & Raf Simons,25,4,0,1,0,0,1,,,0.25
+Miu Miu,2023,ss,Milan,Prada,Miuccia Prada & Raf Simons,25,4,0,1,0,0,1,,,0.05
+Miu Miu,2022,fw,Milan,Prada,Miuccia Prada & Raf Simons,25,4,0,1,0,0,1,,,0.25
+Miu Miu,2022,ss,Milan,Prada,Miuccia Prada & Raf Simons,25,1,0,1,0,0,1,,,0.3
+Miu Miu,2021,fw,Milan,Prada,Miuccia Prada & Raf Simons,25,1,0,1,0,0,1,,,0
+Miu Miu,2021,ss,Milan,Prada,Miuccia Prada & Raf Simons,25,1,0,1,0,0,1,,,175
+Miu Miu,2020,fw,Milan,Prada,Miuccia Prada & Raf Simons,25,1,0,1,0,0,1,,,0.1988636364
+Miu Miu,2020,ss,Milan,Prada,Miuccia Prada,42,1,0,1,0,0,1,,,0.175
+Miu Miu,2019,fw,Milan,Prada,Miuccia Prada,42,1,0,1,0,0,1,,,0
+Miu Miu,2019,ss,Milan,Prada,Miuccia Prada,42,1,0,1,0,0,1,,,175
+Miu Miu,2018,fw,Milan,Prada,Miuccia Prada,42,1,0,1,0,0,1,,,0.1988636364
+Miu Miu,2018,ss,Milan,Prada,Miuccia Prada,42,1,0,1,0,0,1,,,0.25
+Louis Vuitton,2024,fw,Paris,LVMH,Pharrell Williams,0,0,0,1,0,0,1,9336,0.089318,-0.2
+Louis Vuitton,2024,ss,Paris,LVMH,Pharrell Williams,0,0,0,1,0,0,1,9336,0.089318,0.05
+Louis Vuitton,2023,fw,Paris,LVMH,Pharrell Williams,0,0,0,1,0,0,1,9201,0.089318,0
+Louis Vuitton,2023,ss,Paris,LVMH,Pharrell Williams,0,0,0,1,0,0,1,9201,0.089318,0.05
+Louis Vuitton,2022,fw,Paris,LVMH,Virgil Abloh,9,1,0,1,0,0,1,9293,0.089318,0.25
+Louis Vuitton,2022,ss,Paris,LVMH,Virgil Abloh,9,1,0,1,0,0,1,9293,0.089318,0.05
+Louis Vuitton,2021,fw,Paris,LVMH,Virgil Abloh,9,1,0,1,0,0,1,9234,0.089318,0.25
+Louis Vuitton,2021,ss,Paris,LVMH,Virgil Abloh,9,1,0,1,0,0,1,9234,0.089318,0.05
+Louis Vuitton,2020,fw,Paris,LVMH,Virgil Abloh,9,1,0,1,0,0,1,9892,0.089318,0.25
+Louis Vuitton,2020,ss,Paris,LVMH,Virgil Abloh,9,1,0,1,0,0,1,9892,0.089318,0
+Louis Vuitton,2019,fw,Paris,LVMH,Virgil Abloh,9,1,0,1,0,0,1,9862,0.089318,0.25
+Louis Vuitton,2019,ss,Paris,LVMH,Virgil Abloh,9,1,0,1,0,0,1,9862,0.089318,0
+Louis Vuitton,2018,fw,Paris,LVMH,Virgil Abloh,9,1,0,1,0,0,1,9752,0.089318,0.25
+Louis Vuitton,2018,ss,Paris,LVMH,Kim Jones,8,1,0,1,0,0,1,9752,0.19125,0
+Saint Laurent,2024,fw,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9336,0.089318,0.05
+Saint Laurent,2024,ss,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9336,0.089318,-0.002272727273
+Saint Laurent,2023,fw,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9201,0.089318,0.25
+Saint Laurent,2023,ss,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9201,0.089318,0.5
+Saint Laurent,2022,fw,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9293,0.089318,0.25
+Saint Laurent,2022,ss,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9293,0.089318,0.5
+Saint Laurent,2021,fw,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9234,0.089318,0
+Saint Laurent,2021,ss,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9234,0.089318,0.1931818182
+Saint Laurent,2020,fw,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9892,0.089318,0.6
+Saint Laurent,2020,ss,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9892,0.089318,0.5477272727
+Saint Laurent,2019,fw,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9862,0.089318,-0.2
+Saint Laurent,2019,ss,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9862,0.089318,0.1931818182
+Saint Laurent,2018,fw,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9752,0.089318,0.35
+Saint Laurent,2018,ss,Paris,Kering,Anthony Vaccarello,7,2,0,1,0,0,1,9752,0.19125,0.5333333333
+Gucci,2024,fw,Milan,Kering,Sabato De Sarno,14,4,0,1,0,0,1,9336,0.089318,0
+Gucci,2024,ss,Milan,Kering,Sabato De Sarno,14,4,0,1,0,0,1,9336,0.089318,0.2638888889
+Gucci,2023,fw,Milan,Kering,Sabato De Sarno,14,4,0,1,0,0,1,9201,0.089318,175
+Gucci,2023,ss,Milan,Kering,Alessandro Michele,17,4,0,1,0,0,1,9201,0.089318,0
+Gucci,2022,fw,Milan,Kering,Alessandro Michele,17,4,0,1,0,0,1,9293,0.089318,0.0625
+Gucci,2022,ss,Milan,Kering,Alessandro Michele,17,1,0,1,0,0,1,9293,0.089318,0.25
+Gucci,2021,fw,Milan,Kering,Alessandro Michele,17,1,0,1,0,0,1,9234,0.089318,0.3143939394
+Gucci,2021,ss,Milan,Kering,Alessandro Michele,17,1,0,1,0,0,1,9234,0.089318,0.25
+Gucci,2020,fw,Milan,Kering,Alessandro Michele,17,1,0,1,0,0,1,9892,0.089318,0.2393939394
+Gucci,2020,ss,Milan,Kering,Alessandro Michele,17,1,0,1,0,0,1,9892,0.089318,0.25
+Gucci,2019,fw,Milan,Kering,Alessandro Michele,17,1,0,1,0,0,1,9862,0.089318,0.3
+Gucci,2019,ss,Milan,Kering,Alessandro Michele,17,1,0,1,0,0,1,9862,0.089318,-0.04166666667
+Gucci,2018,fw,Milan,Kering,Alessandro Michele,17,1,0,1,0,0,1,9752,0.089318,0.25
+Gucci,2018,ss,Milan,Kering,Alessandro Michele,17,1,0,1,0,0,1,9752,0.19125,0.25
+Bottega Veneta,2024,fw,Milan,Kering,Matthieu Blazy,14,3,0,0,0,1,1,9336,0.089318,0.25
+Bottega Veneta,2024,ss,Milan,Kering,Matthieu Blazy,14,3,0,0,0,1,1,9336,0.089318,0
+Bottega Veneta,2023,fw,Milan,Kering,Matthieu Blazy,14,3,0,0,0,1,1,9201,0.089318,0.3
+Bottega Veneta,2023,ss,Milan,Kering,Matthieu Blazy,14,3,0,0,0,1,1,9201,0.089318,0.25
+Bottega Veneta,2022,fw,Milan,Kering,Matthieu Blazy,14,3,0,0,0,1,1,9293,0.089318,0.3
+Bottega Veneta,2022,ss,Milan,Kering,Matthieu Blazy,14,3,0,0,0,1,1,9293,0.089318,0.25
+Bottega Veneta,2021,fw,Milan,Kering,Daniel Lee,8,1,0,0,0,1,1,9234,0.089318,0.1090909091
+Bottega Veneta,2021,ss,Milan,Kering,Daniel Lee,8,1,0,0,0,1,1,9234,0.089318,0
+Bottega Veneta,2020,fw,Milan,Kering,Daniel Lee,8,1,0,0,0,1,1,9892,0.089318,0.3
+Bottega Veneta,2020,ss,Milan,Kering,Daniel Lee,8,1,0,0,0,1,1,9892,0.089318,0.25
+Bottega Veneta,2019,fw,Milan,Kering,Daniel Lee,8,1,0,0,0,1,1,9862,0.089318,0.3
+Bottega Veneta,2019,ss,Milan,Kering,Daniel Lee,8,1,0,0,0,1,1,9862,0.089318,0
+Bottega Veneta,2018,fw,Milan,Kering,Tomas Maier,17,1,0,0,0,1,1,9752,0.089318,0.05
+Bottega Veneta,2018,ss,Milan,Kering,Tomas Maier,17,1,0,0,0,1,1,9752,0.19125,0
+Valentino,2024,fw,Rome,Independent,Alessandro Michele,21,1,0,1,0,0,1,9336,0.089318,0
+Valentino,2024,ss,Rome,Independent,Alessandro Michele,21,1,0,1,0,0,1,9336,0.089318,0.125
+Valentino,2023,fw,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9201,0.089318,0.25
+Valentino,2023,ss,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9201,0.089318,0
+Valentino,2022,fw,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9293,0.089318,0.25
+Valentino,2022,ss,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9293,0.089318,0
+Valentino,2021,fw,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9234,0.089318,0.1893939394
+Valentino,2021,ss,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9234,0.089318,0.125
+Valentino,2020,fw,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9892,0.089318,0.1893939394
+Valentino,2020,ss,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9892,0.089318,125
+Valentino,2019,fw,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9862,0.089318,0.05
+Valentino,2019,ss,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9862,0.089318,0
+Valentino,2018,fw,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9752,0.089318,0.05
+Valentino,2018,ss,Rome,Independent,Pierpaolo Piccioli,21,1,0,1,0,0,1,9752,0.19125,0
+Hermes,2024,fw,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9336,0.089318,0
+Hermes,2024,ss,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9336,0.089318,0.4393939394
+Hermes,2023,fw,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9201,0.089318,0.4
+Hermes,2023,ss,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9201,0.089318,0.25
+Hermes,2022,fw,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9293,0.089318,0.25
+Hermes,2022,ss,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9293,0.089318,0.25
+Hermes,2021,fw,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9234,0.089318,0
+Hermes,2021,ss,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9234,0.089318,0.1893939394
+Hermes,2020,fw,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9892,0.089318,0.1893939394
+Hermes,2020,ss,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9892,0.089318,0.4706439394
+Hermes,2019,fw,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9862,0.089318,0.5
+Hermes,2019,ss,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9862,0.089318,0.25
+Hermes,2018,fw,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9752,0.089318,0.125
+Hermes,2018,ss,Paris,Independent,Nadège Vanhee-Cybulski,4,3,0,1,0,0,1,9752,0.19125,-0.08333333333
+Celine,2024,fw,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9336,0.089318,0
+Celine,2024,ss,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9336,0.089318,0
+Celine,2023,fw,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9201,0.089318,0.05
+Celine,2023,ss,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9201,0.089318,0
+Celine,2022,fw,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9293,0.089318,0.05
+Celine,2022,ss,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9293,0.089318,0
+Celine,2021,fw,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9234,0.089318,0.05
+Celine,2021,ss,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9234,0.089318,0
+Celine,2020,fw,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9892,0.089318,0.05
+Celine,2020,ss,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9892,0.089318,0
+Celine,2019,fw,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9862,0.089318,0
+Celine,2019,ss,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9862,0.089318,0
+Celine,2018,fw,Paris,LVMH,Hedi Slimane,21,2,0,1,0,0,1,9752,0.089318,0
+Celine,2018,ss,Paris,LVMH,Phoebe Philo,18,1,0,1,0,0,1,9752,0.19125,0
+Maison Margiela,2024,fw,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9336,0.089318,0
+Maison Margiela,2024,ss,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9336,0.089318,0
+Maison Margiela,2023,fw,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9201,0.089318,0
+Maison Margiela,2023,ss,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9201,0.089318,0
+Maison Margiela,2022,fw,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9293,0.089318,0.25
+Maison Margiela,2022,ss,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9293,0.089318,-0.1
+Maison Margiela,2021,fw,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9234,0.089318,0
+Maison Margiela,2021,ss,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9234,0.089318,0
+Maison Margiela,2020,fw,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9892,0.089318,0.05
+Maison Margiela,2020,ss,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9892,0.089318,0.5
+Maison Margiela,2019,fw,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9862,0.089318,0.3
+Maison Margiela,2019,ss,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9862,0.089318,0.65
+Maison Margiela,2018,fw,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9752,0.089318,0.4166666667
+Maison Margiela,2018,ss,Paris,OTB,John Galliano,31,3,0,1,0,0,1,9752,0.19125,0.25
+Versace,2024,fw,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9336,0.089318,0
+Versace,2024,ss,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9336,0.089318,0.08522727273
+Versace,2023,fw,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9201,0.089318,125
+Versace,2023,ss,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9201,0.089318,0.2666666667
+Versace,2022,fw,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9293,0.089318,0
+Versace,2022,ss,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9293,0.089318,0.08522727273
+Versace,2021,fw,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9234,0.089318,0
+Versace,2021,ss,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9234,0.089318,0.2666666667
+Versace,2020,fw,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9892,0.089318,0.06818181818
+Versace,2020,ss,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9892,0.089318,0
+Versace,2019,fw,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9862,0.089318,0
+Versace,2019,ss,Milan,Capri Holdings,Donatella Versace,38,0,0,0,0,1,1,9862,0.089318,0.1277777778
+Versace,2018,fw,Milan,Independent,Donatella Versace,38,0,0,0,0,1,1,9752,0.089318,0
+Versace,2018,ss,Milan,Independent,Donatella Versace,38,0,0,0,0,1,1,9752,0.19125,0
