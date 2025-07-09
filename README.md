@@ -2,8 +2,6 @@
 
 > *Because that "pile of stuff" was never *just* stuff — it was data waiting to be modeled.*
 
-![Banner](./assets/devil-wears-data-banner.png)
-
 ## TL;DR
 
 I built an open, longitudinal dataset of 14 luxury fashion houses (2018‑2024) — creative directors, runway calendars, sentiment, revenue, and more — then showed how causal inference (synthetic control) can quantify the impact of Pharrell Williams at Louis Vuitton.  Clone the repo, open the R notebook, and run `make all` to reproduce every figure.
