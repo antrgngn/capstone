@@ -138,8 +138,6 @@ A `Makefile` is included for one‑command reproduction: `make all`.
 * **Financials**: Scraping PDF annual reports to improve revenue granularity.
 * **CI/CD**: Automate weekly sentiment refresh via GitHub Actions.
 
-Contributions welcome — see [`CONTRIBUTING.md`](./CONTRIBUTING.md).
-
 ---
 
 ## Citation
